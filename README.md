@@ -8,5 +8,4 @@ Pic showing Micro Controller and Wiring Placement
 
 Pic of Board after all components have been added
 
-
-![lock final](https://github.com/user-attachments/assets/4dd1ab3b-9943-4e33-bf79-957e22d2907e)
+![Lock After all is done](https://github.com/user-attachments/assets/41f61bfb-e198-4f4e-91dd-b486b3928a04)

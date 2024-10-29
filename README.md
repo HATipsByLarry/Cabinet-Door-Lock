@@ -13,14 +13,24 @@ Pic of Board after all components have been added
 Parts List
 
 Electronic Cabinet Lock: https://amzn.to/3Uv0fFn
+
 JST SM 3 Pin Connectors: https://amzn.to/3Yn0BPz
+
 Adhesive Cable Clips: https://amzn.to/3YIIuFg
+
 12V 5A Power Supply: https://amzn.to/48yyuSg
+
 DC 12V to DC 5V 5A Buck Converter Module: https://amzn.to/3C7FVDS
+
 Magnetic Reed Switch: https://amzn.to/4fnqEwL
+
 N-Channel Power Mosfet Transistor: https://amzn.to/3Yn1dol
+
 JST XH 2.54 mm Pitch 2-Pin JST Wiring Connectors: https://amzn.to/3YsWBgk
+
 M4 Pan Head Phillips Machine Screws: https://amzn.to/4e4PkcA
+
 ElectroCookie PCB Prototype Board, Snappable Strip Board: https://amzn.to/40onqox
+
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖

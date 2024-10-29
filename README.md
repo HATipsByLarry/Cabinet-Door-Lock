@@ -32,5 +32,7 @@ M4 Pan Head Phillips Machine Screws: https://amzn.to/4e4PkcA
 
 ElectroCookie PCB Prototype Board, Snappable Strip Board: https://amzn.to/40onqox
 
+LED Strip WS2812B: https://amzn.to/4ht9IHh
+
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖

@@ -1,0 +1,52 @@
+switch:
+
+  - platform: gpio
+    pin: 5
+    id: lock2
+
+
+button:
+
+  - platform: template
+    id: Power1
+    name: "Unlock"
+    on_press:
+      - switch.turn_on: lock2
+      - delay: 250ms
+      - switch.turn_off: lock2
+
+binary_sensor:
+
+  - platform: gpio
+    pin:
+      number: 4
+      mode:
+        input: true
+        pulldown: true
+    name: "Door"
+    id: reed2
+    device_class: door
+    filters:
+      - delayed_on: 10ms
+    on_state:
+      - if:
+          condition:
+           - binary_sensor.is_on: reed2
+          then:
+            - light.turn_on:
+                id: ddl
+                brightness: 100%
+                red: 100%
+                green: 100%
+                blue: 100%
+          else:
+           - light.turn_off: ddl
+light:
+  - platform: esp32_rmt_led_strip
+    id: ddl
+    rgb_order: GRB
+    pin: 8
+    num_leds: 10
+    rmt_channel: 0
+    chipset: ws2812
+    name: "Desk Drawer Light"  

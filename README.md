@@ -16,6 +16,9 @@ Pic of lock installed inside of Cabinet
 
 I used 3 30mm M4 Screws to secure the lock to the desk with 15 washers in between the inside desk wall and the lock to get the spacing needed for the lock to be in the right place to engage with the clamp.
 
+I used HASS.Agent to allow me to unlock the lock with my keyboard https://github.com/hass-agent   NOTE: You need MQTT add-on in HA for this to work correctly
+
+
 Parts List
 
 Electronic Cabinet Lock: https://amzn.to/3Uv0fFn

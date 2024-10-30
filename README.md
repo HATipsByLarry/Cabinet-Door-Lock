@@ -34,5 +34,7 @@ ElectroCookie PCB Prototype Board, Snappable Strip Board: https://amzn.to/40onqo
 
 LED Strip WS2812B: https://amzn.to/4ht9IHh
 
+Seeed Studio ESP32C3: https://amzn.to/3UsOXRW
+
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖

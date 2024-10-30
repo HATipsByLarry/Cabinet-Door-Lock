@@ -10,6 +10,11 @@ Pic of Board after all components have been added
 
 ![Lock After all is done](https://github.com/user-attachments/assets/41f61bfb-e198-4f4e-91dd-b486b3928a04)
 
+Pic of lock installed inside of Cabinet
+
+![Lock installed inside of cabinet](https://github.com/user-attachments/assets/684d3fb4-f28c-4854-a3e3-0b1a8288e516)
+
+
 Parts List
 
 Electronic Cabinet Lock: https://amzn.to/3Uv0fFn

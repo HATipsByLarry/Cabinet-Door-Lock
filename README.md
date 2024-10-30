@@ -14,6 +14,7 @@ Pic of lock installed inside of Cabinet
 
 ![Lock installed inside of cabinet](https://github.com/user-attachments/assets/684d3fb4-f28c-4854-a3e3-0b1a8288e516)
 
+I used 3 30mm M4 Screws to secure the lock to the desk with 15 washers in between the inside desk wall and the lock to get the spacing needed for the lock to be in the right place to engage with the clamp.
 
 Parts List
 

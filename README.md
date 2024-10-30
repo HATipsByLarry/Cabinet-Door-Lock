@@ -44,4 +44,6 @@ Seeed Studio ESP32C3: https://amzn.to/3UsOXRW
 
 Gorilla Double Sided Adhesive Mounting Tape: https://amzn.to/3AlRkiL
 
+DC Power Socket Connector: https://amzn.to/3Amd6mp
+
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖

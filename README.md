@@ -53,3 +53,5 @@ NFC Tags: https://amzn.to/3YIe063
 
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
+
+Quick Youtube Demo Video: https://www.youtube.com/watch?v=Cl7BkKPYkBY

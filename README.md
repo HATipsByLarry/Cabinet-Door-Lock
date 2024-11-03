@@ -51,6 +51,8 @@ DC Power Socket Connector: https://amzn.to/3Amd6mp
 
 NFC Tags: https://amzn.to/3YIe063
 
+Resistor Pack: https://amzn.to/4f7OgWI
+
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
 

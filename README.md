@@ -8,7 +8,7 @@ Pic showing Micro Controller and Wire Placement
 
 Pic of Board after all components have been added
 
-![Lock After all is done](https://github.com/user-attachments/assets/41f61bfb-e198-4f4e-91dd-b486b3928a04)
+![lock controller board resistor](https://github.com/user-attachments/assets/d6815878-c676-45a7-8068-2231ced13906)
 
 Pic of lock installed inside of Cabinet
 
